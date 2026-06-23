@@ -22,7 +22,7 @@ I've operated on both sides of the fence:
 
 **Current focus:** agentic security systems, adversarial AI, attested forensics, and security data pipelines that turn noisy telemetry into reliable decisions and exploits. Right now I'm building AI-native security tooling across the full stack — an agentic Bug Bounty OS, AI-driven SOC triage, and an agentic DFIR assistant — to prove that one person with the right agents can do the work of an entire small security team.
 
-> Most projects listed here are currently private and under active development — they will be made public progressively. Reach out if you want early access or want to collaborate.
+> **Repos are intentionally private.** Most of this tooling is advanced offensive/defensive security infrastructure — access is granted on request. If you're a recruiter, researcher, or potential collaborator, reach out directly and I'll add you as a read-only collaborator on the relevant repos.
 
 ---
 
