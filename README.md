@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Security+Engineer+%7C+AI+Researcher;Adversarial+ML+%7C+Agentic+Systems;Bug+Bounty+%7C+Red+Team+Tooling;Building+at+the+intersection+of+AI+%2B+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Security+Engineer+%7C+AI+Researcher;Adversarial+ML+%7C+Agentic+Systems;Bug+Bounty+%7C+Red+Team+Tooling;Building+at+the+intersection+of+AI+%2B+Security" alt="Typing SVG" />
 
 <br/>
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-ask92-ED1C24?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/ask92)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devil191225)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask92@github.com)
 
@@ -50,6 +49,13 @@ I've operated on both sides of the fence:
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C00000?style=flat-square)
 ![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4A4A4A?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-1A1A2E?style=flat-square)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-6A0DAD?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01B22?style=flat-square)
 
 **Infrastructure**
 
@@ -81,6 +87,7 @@ I've operated on both sides of the fence:
 | [**causalguard**](https://github.com/devil191225/causalguard) | Causal, explainable anomaly detection on industrial control system (ICS) telemetry. Evaluated on the SWaT dataset with formal verification and adversarial robustness benchmarks | Python · scikit-learn | 6K |
 | [**lolbin-detection**](https://github.com/devil191225/lolbin-detection) | Living-off-the-land binary (LOLBin) behavioral detection system. FastAPI backend with SQLAlchemy ORM, Streamlit dashboard, Docker-ready | Python · FastAPI · Streamlit | 14K |
 | [**Quantum-Resistant-AI-Algorithm**](https://github.com/devil191225/Quantum-Resistant-AI-Algorithm) | Post-quantum cryptography parameter optimizer. Genetic algorithm search over Kyber lattice parameters + ML-based vulnerability prediction | Python · React | 3K |
+| [**real-time-voice-cloning**](https://github.com/devil191225/real-time-voice-cloning) | Adversarial audio research pipeline — real-time voice spoofing and deepfake synthesis (SV2TTS architecture). Full encoder/synthesizer/vocoder stack with 5-second speaker adaptation. Built to understand and simulate audio-based attack surfaces for red team and detection research | Python · PyTorch | 7K |
 
 ### Bug Bounty & Offensive Tooling
 
@@ -95,8 +102,7 @@ I've operated on both sides of the fence:
 | Project | Description | Stack | LOC |
 |---------|-------------|-------|-----|
 | [**qaca**](https://github.com/devil191225/qaca) | Synthetic quantum-adaptive crypto-agility (QACA) simulator. Algorithm registry, causal graph analysis, research PoC for post-quantum migration strategies | Python | 3.5K |
-| [**real-time-voice-cloning**](https://github.com/devil191225/real-time-voice-cloning) | Real-time voice cloning pipeline (SV2TTS architecture). Full encoder/synthesizer/vocoder stack with 5-second speaker adaptation | Python · PyTorch | 7K |
-| [**career-ops**](https://github.com/devil191225/career-ops) | AI-powered job search pipeline. Playwright liveness checker, PDF resume generator, pattern analyzer, dedup tracker — zero-config automation | Node.js · Go | 3K |
+| [**real-time-voice-cloning**](https://github.com/devil191225/real-time-voice-cloning) | Adversarial audio research pipeline — real-time voice spoofing and deepfake synthesis (SV2TTS architecture). Full encoder/synthesizer/vocoder stack with 5-second speaker adaptation. Built to understand and simulate audio-based attack surfaces for red team and detection research | Python · PyTorch | 7K |
 
 ---
 
