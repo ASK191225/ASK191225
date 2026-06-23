@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Security+Engineer+%7C+Offense+%2B+Defense;Agentic+AI+%7C+Security+Systems;Bug+Bounty+%7C+DFIR+Automation;Building+at+the+intersection+of+AI+%2B+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Security+Engineer+%7C+AI+Agent+Builder;Offensive+%2B+Defensive+Tooling;Bug+Bounty+%7C+DFIR+%7C+SOC;Shipping+real+systems+that+find+real+attacks" alt="Typing SVG" />
+
 <br/>
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-ask92-ED1C24?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/ask92)
