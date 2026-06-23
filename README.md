@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Security+Engineer+%7C+AI+Agent+Builder;Offensive+%2B+Defensive+Tooling;Bug+Bounty+%7C+DFIR+%7C+SOC;Shipping+real+systems+that+find+real+attacks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Security+Engineer+%7C+AI+Researcher;Adversarial+ML+%7C+Agentic+Systems;Bug+Bounty+%7C+Red+Team+Tooling;Building+at+the+intersection+of+AI+%2B+Security" alt="Typing SVG" />
 
 <br/>
 
@@ -14,12 +14,15 @@
 
 ## About Me
 
-Security engineer focused on **adversarial AI**, **agentic security systems**, and **offensive tooling**. I build production-grade systems at the intersection of machine learning and cybersecurity — from zero-trust endpoint intelligence platforms to fully autonomous bug bounty pipelines.
+Security engineer focused on **agentic AI** and **offensive + defensive security tooling**. I build systems where LLMs and agents don't just generate text — they drive real investigations and attacks: AI-assisted SOC triage platforms, autonomous bug bounty pipelines, and DFIR agents that orchestrate actual tools end-to-end.
 
-- **AppSec / Blue Team** background transitioning into offensive security research
-- Active **bug bounty hunter** on HackerOne (GitLab, Shopify programs)
-- Research interests: adversarial ML, post-quantum cryptography, causal anomaly detection, LLM-based agents
-- Currently building AI-native security tooling — MCP servers, agentic SOC platforms, DFIR orchestrators
+I've operated on both sides of the fence:
+- **Blue Team / DFIR / Threat Intel** — Tesla, Palo Alto Networks Unit 42, Duke × Recorded Future
+- **Offensive Research & Bug Bounty** — critical and high-severity findings in large production environments
+
+**Current focus:** agentic security systems, adversarial AI, attested forensics, and security data pipelines that turn noisy telemetry into reliable decisions and exploits. Right now I'm building AI-native security tooling across the full stack — an agentic Bug Bounty OS, AI-driven SOC triage, and an agentic DFIR assistant — to prove that one person with the right agents can do the work of an entire small security team.
+
+> Most projects listed here are currently private and under active development — they will be made public progressively. Reach out if you want early access or want to collaborate.
 
 ---
 
