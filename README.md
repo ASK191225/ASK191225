@@ -74,35 +74,35 @@ I've operated on both sides of the fence:
 
 | | Project | Description | Stack | LOC |
 |-|---------|-------------|-------|-----|
-| 🔒 | [**endpoint-intelligence-agent**](https://github.com/devil191225/endpoint-intelligence-agent) | Production-grade zero-trust endpoint intelligence platform. Tamper-proof Ed25519 audit logging, WORM storage, Streamlit SOC dashboard, Kubernetes-ready deployment | Python · React · K8s | 30K |
-| 🔒 | [**agentic-soc**](https://github.com/devil191225/agentic-soc) | Full-stack AI-powered Security Operations Center. 9-stage investigation lifecycle, Claude-driven analysis engine, FastAPI backend, PostgreSQL provenance tracking, Splunk integration | FastAPI · React · TS · PostgreSQL | 21K |
-| 🔒 | [**threat-intel-agent**](https://github.com/devil191225/threat-intel-agent) | MCP-backed threat intelligence chatbot. Hybrid semantic search over CVE/NVD data, SBOM processing, multi-LLM support (Claude/OpenAI/local), real-time risk scoring | Python · MCP · Streamlit | 8K |
-| 🔒 | [**dfir-agentic-kit**](https://github.com/devil191225/dfir-agentic-kit) | AI-powered DFIR investigation orchestrator. Arsenal forensic image mounter, hypothesis engine, MITRE ATT&CK automated mapping, timeline reconstruction | Python · Elasticsearch · ATT&CK | 6K |
+| 🔒 | [**endpoint-intelligence-agent**](https://github.com/ASK191225/endpoint-intelligence-agent) | Production-grade zero-trust endpoint intelligence platform. Tamper-proof Ed25519 audit logging, WORM storage, Streamlit SOC dashboard, Kubernetes-ready deployment | Python · React · K8s | 30K |
+| 🔒 | [**agentic-soc**](https://github.com/ASK191225/agentic-soc) | Full-stack AI-powered Security Operations Center. 9-stage investigation lifecycle, Claude-driven analysis engine, FastAPI backend, PostgreSQL provenance tracking, Splunk integration | FastAPI · React · TS · PostgreSQL | 21K |
+| 🔒 | [**threat-intel-agent**](https://github.com/ASK191225/threat-intel-agent) | MCP-backed threat intelligence chatbot. Hybrid semantic search over CVE/NVD data, SBOM processing, multi-LLM support (Claude/OpenAI/local), real-time risk scoring | Python · MCP · Streamlit | 8K |
+| 🔒 | [**dfir-agentic-kit**](https://github.com/ASK191225/dfir-agentic-kit) | AI-powered DFIR investigation orchestrator. Arsenal forensic image mounter, hypothesis engine, MITRE ATT&CK automated mapping, timeline reconstruction | Python · Elasticsearch · ATT&CK | 6K |
 
 ### Adversarial AI & ML Security
 
 | | Project | Description | Stack | LOC |
 |-|---------|-------------|-------|-----|
-| 🔓 | [**adversarial-ai-defense**](https://github.com/devil191225/adversarial-ai-defense) | End-to-end adversarial patch attack and defense pipeline for computer vision models. Ensemble defense stack: entropy filtering, frequency analysis, gradient saliency maps, cyberphysical attack simulation | Python · PyTorch | 11K |
-| 🔓 | [**causalguard**](https://github.com/devil191225/causalguard) | Causal, explainable anomaly detection on industrial control system (ICS) telemetry. Evaluated on the SWaT dataset with formal verification and adversarial robustness benchmarks | Python · scikit-learn | 6K |
-| 🔓 | [**lolbin-detection**](https://github.com/devil191225/lolbin-detection) | Living-off-the-land binary (LOLBin) behavioral detection system. FastAPI backend with SQLAlchemy ORM, Streamlit dashboard, Docker-ready | Python · FastAPI · Streamlit | 14K |
-| 🔒 | [**Quantum-Resistant-AI-Algorithm**](https://github.com/devil191225/Quantum-Resistant-AI-Algorithm) | Post-quantum cryptography parameter optimizer. Genetic algorithm search over Kyber lattice parameters + ML-based vulnerability prediction | Python · React | 3K |
-| 🔒 | [**real-time-voice-cloning**](https://github.com/devil191225/real-time-voice-cloning) | Adversarial audio research pipeline — real-time voice spoofing and deepfake synthesis (SV2TTS architecture). Full encoder/synthesizer/vocoder stack with 5-second speaker adaptation. Built to understand and simulate audio-based attack surfaces for red team and detection research | Python · PyTorch | 7K |
+| 🔓 | [**adversarial-ai-defense**](https://github.com/ASK191225/adversarial-ai-defense) | End-to-end adversarial patch attack and defense pipeline for computer vision models. Ensemble defense stack: entropy filtering, frequency analysis, gradient saliency maps, cyberphysical attack simulation | Python · PyTorch | 11K |
+| 🔓 | [**causalguard**](https://github.com/ASK191225/causalguard) | Causal, explainable anomaly detection on industrial control system (ICS) telemetry. Evaluated on the SWaT dataset with formal verification and adversarial robustness benchmarks | Python · scikit-learn | 6K |
+| 🔓 | [**lolbin-detection**](https://github.com/ASK191225/lolbin-detection) | Living-off-the-land binary (LOLBin) behavioral detection system. FastAPI backend with SQLAlchemy ORM, Streamlit dashboard, Docker-ready | Python · FastAPI · Streamlit | 14K |
+| 🔒 | [**Quantum-Resistant-AI-Algorithm**](https://github.com/ASK191225/Quantum-Resistant-AI-Algorithm) | Post-quantum cryptography parameter optimizer. Genetic algorithm search over Kyber lattice parameters + ML-based vulnerability prediction | Python · React | 3K |
+| 🔒 | [**real-time-voice-cloning**](https://github.com/ASK191225/real-time-voice-cloning) | Adversarial audio research pipeline — real-time voice spoofing and deepfake synthesis (SV2TTS architecture). Full encoder/synthesizer/vocoder stack with 5-second speaker adaptation. Built to understand and simulate audio-based attack surfaces for red team and detection research | Python · PyTorch | 7K |
 
 ### Bug Bounty & Offensive Tooling
 
 | | Project | Description | Stack | LOC |
 |-|---------|-------------|-------|-----|
-| 🔒 | [**claude-bug-bounty**](https://github.com/devil191225/claude-bug-bounty) | Autonomous bug bounty agent built on LangGraph ReAct. Multi-provider LLM brain (2,200-line router), intentionally vulnerable demo app for testing, HackerOne MCP server, memory system, scope enforcement | Python · LangGraph · MCP | 20K |
-| 🔓 | [**bugbounty-kit**](https://github.com/devil191225/bugbounty-kit) | Production bug bounty operations toolkit. Token scanner, HAI payload builder, RAG knowledge base, hunt journal, audit trail — full pipeline from recon to report | Python · Node.js | 17K |
-| 🔒 | [**malware-lab-orchestrator**](https://github.com/devil191225/malware-lab-orchestrator) | Air-gapped malware analysis lab orchestration system. FastAPI orchestrator, Apache Guacamole RDP integration, remote Linux agent runner | Python · FastAPI | 1.5K |
+| 🔒 | [**claude-bug-bounty**](https://github.com/ASK191225/claude-bug-bounty) | Autonomous bug bounty agent built on LangGraph ReAct. Multi-provider LLM brain (2,200-line router), intentionally vulnerable demo app for testing, HackerOne MCP server, memory system, scope enforcement | Python · LangGraph · MCP | 20K |
+| 🔓 | [**bugbounty-kit**](https://github.com/ASK191225/bugbounty-kit) | Production bug bounty operations toolkit. Token scanner, HAI payload builder, RAG knowledge base, hunt journal, audit trail — full pipeline from recon to report | Python · Node.js | 17K |
+| 🔒 | [**malware-lab-orchestrator**](https://github.com/ASK191225/malware-lab-orchestrator) | Air-gapped malware analysis lab orchestration system. FastAPI orchestrator, Apache Guacamole RDP integration, remote Linux agent runner | Python · FastAPI | 1.5K |
 
 ### Research & Specialized Tools
 
 | | Project | Description | Stack | LOC |
 |-|---------|-------------|-------|-----|
-| 🔓 | [**qaca**](https://github.com/devil191225/qaca) | Synthetic quantum-adaptive crypto-agility (QACA) simulator. Algorithm registry, causal graph analysis, research PoC for post-quantum migration strategies | Python | 3.5K |
-| 🔓 | [**ml-ids-notebook**](https://github.com/devil191225/ml-ids-notebook) | Machine learning intrusion detection system. Classifier benchmarks across multiple architectures with trained model artifacts included | Python · Jupyter | 3K |
+| 🔓 | [**qaca**](https://github.com/ASK191225/qaca) | Synthetic quantum-adaptive crypto-agility (QACA) simulator. Algorithm registry, causal graph analysis, research PoC for post-quantum migration strategies | Python | 3.5K |
+| 🔓 | [**ml-ids-notebook**](https://github.com/ASK191225/ml-ids-notebook) | Machine learning intrusion detection system. Classifier benchmarks across multiple architectures with trained model artifacts included | Python · Jupyter | 3K |
 
 ---
 
@@ -117,7 +117,7 @@ I've operated on both sides of the fence:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devil191225&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ASK191225&theme=tokyonight&hide_border=true)
 
 </div>
 
