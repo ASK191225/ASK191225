@@ -21,7 +21,7 @@ I've operated on both sides of the fence:
 
 **Current focus:** agentic security systems, adversarial AI, attested forensics, and security data pipelines that turn noisy telemetry into reliable decisions and exploits. Right now I'm building AI-native security tooling across the full stack — an agentic Bug Bounty OS, AI-driven SOC triage, and an agentic DFIR assistant — to prove that one person with the right agents can do the work of an entire small security team.
 
-> **6 repos are public** (research + defensive tooling). Advanced offensive/defensive infrastructure remains private — access granted on request. Reach out directly if you're a recruiter, researcher, or potential collaborator.
+> **7 repos are public** (research + defensive tooling). Advanced offensive/defensive infrastructure remains private — access granted on request. Reach out directly if you're a recruiter, researcher, or potential collaborator.
 
 ---
 
@@ -74,6 +74,7 @@ I've operated on both sides of the fence:
 
 | | Project | Description | Stack | LOC |
 |-|---------|-------------|-------|-----|
+| 🔓 | [**risk-agent**](https://github.com/ASK191225/risk-agent) | Agentic cyber risk assessment pipeline for Claude Code. 12-stage subagent workflow: scenario in, top-5 prioritized risks with mitigations, residual estimates, and NIST CSF / ISO 27001 / SOC 2 alignment out. Schema-validated artifacts, policy engine, and skeptic pass with human-review flags | Python · Claude Code · Pydantic | 3.4K |
 | 🔒 | [**endpoint-intelligence-agent**](https://github.com/ASK191225/endpoint-intelligence-agent) | Production-grade zero-trust endpoint intelligence platform. Tamper-proof Ed25519 audit logging, WORM storage, Streamlit SOC dashboard, Kubernetes-ready deployment | Python · React · K8s | 30K |
 | 🔒 | [**agentic-soc**](https://github.com/ASK191225/agentic-soc) | Full-stack AI-powered Security Operations Center. 9-stage investigation lifecycle, Claude-driven analysis engine, FastAPI backend, PostgreSQL provenance tracking, Splunk integration | FastAPI · React · TS · PostgreSQL | 21K |
 | 🔒 | [**threat-intel-agent**](https://github.com/ASK191225/threat-intel-agent) | MCP-backed threat intelligence chatbot. Hybrid semantic search over CVE/NVD data, SBOM processing, multi-LLM support (Claude/OpenAI/local), real-time risk scoring | Python · MCP · Streamlit | 8K |
